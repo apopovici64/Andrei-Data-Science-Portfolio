@@ -1,2 +1,2 @@
 # Data-Science-Portfolio
-Andrei's work / contributions on some data science and machine learning projects 
+Andrei's work / contributions on some Data Science and Machine Learning projects 
